@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local unpacked DB artifact
+jamdict_data/jamdict.db
